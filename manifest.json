@@ -1,0 +1,38 @@
+{
+  "name": "NAMA BLOG ANDA",
+  "short_name": "NAMA IKON BLOG ANDA",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "DESKRIPSI BLOG ANDA",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-maT9N80N3rw/XSSeCj2bcZI/AAAAAAAAAIc/H5mons2AxS8uCLxsoQPpvugDYwNLCfSHwCLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-raD8jHcQzjY/XSSgCOdWfRI/AAAAAAAAAIo/UTFpVOnMKRAzYSuntY8SzqA2OpJH0snpACLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8qyLX7iUmE0/XSSgVnNh6OI/AAAAAAAAAIw/eKLPb3foqcYqggkuXm5dZ4exL4tCn8b8wCLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qTlId9Ialak/XSSgjV1_pqI/AAAAAAAAAI0/hbPqxFuEicoRQm2ZsApItqaTyUhgDuSPgCLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FL3rGBrjhUo/XSSg08saAaI/AAAAAAAAAJA/yP_luTZO0toz6djk2412dBuKu2IZIAR8QCLcBGAs/s1600/ms-icon-150x150.png",
+    "sizes": "150x150",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-IuNAfhIrz7U/XSShdh-0GrI/AAAAAAAAAJI/hWm0oLlXyysjsHzkXZJ-Tlt7uBKDltoTwCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tO7kiQf_lvI/XSSh21oyqqI/AAAAAAAAAJU/0ZgGDjyRwko1e6n7-5DCtGxJJ4EYpWXJACLcBGAs/s1600/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }]
+}
